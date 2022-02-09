@@ -2,7 +2,7 @@
 
 - I'm Carlos Peraza
 - I'm Software Engineer
-- I'm from Venezuela but living in Costa Rica
+- I'm from Venezuela but i live in Costa Rica
 - I have experience at backend development and some frontend
 
 <!--
