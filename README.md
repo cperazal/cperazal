@@ -2,8 +2,8 @@
 
 - I'm Carlos Peraza
 - I'm a Software Engineer
-- I'm from Venezuela, but I live in Costa Rica
 - I have experience with backend and frontend development.
+- And also I Have worked in several web scraping projects with Python
 
 <!--
 **cperazal/cperazal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
